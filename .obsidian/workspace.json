@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3fd6735a73899a5a",
+        "id": "710fb8a355e23f68",
         "type": "tabs",
         "children": [
           {
-            "id": "63a5f4a58bd8defc",
+            "id": "f881dd5392fd8abf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,7 +152,7 @@
             }
           },
           {
-            "id": "45a47fe1586a69bc",
+            "id": "78c9dba7ab9428bd",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,11 +178,25 @@
       "canvas:Создать новый холст": false,
       "markdown-importer:Импорт Markdown-файлов": true,
       "templates:Вставить шаблон": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-kanban:Создать новую доску": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d4eb271e394a438",
+  "active": "f881dd5392fd8abf",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-03-17 12.21.19.excalidraw.md",
+    "my note.md",
+    "Excalidraw/Drawing 2025-03-17 11.57.33.excalidraw.md",
+    "aalto/Физика.md",
+    "aalto/Тервер.md",
+    "canvas.canvas",
+    "2025-W12.md",
+    "Безымянная Kanban-доска.md",
+    "Excalidraw/Drawing 2025-03-17 12.01.01.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-17 12.04.38.excalidraw.md",
+    "12graph.png",
+    "Excalidraw",
     "git add.md",
     "git/README.md",
     "git/publish/get-project-id-account-id-and-token-vercel.md",
@@ -206,24 +221,13 @@
     "git/publish/attachments/fork-linked-blog-starter-md.png",
     "git/publish/attachments/fn-website-demo.gif",
     "git/publish/attachments/enable-actions-github.png",
-    "git/publish/attachments/disconnect-repo-vercel.png",
     "git/publish/accepted-markdown-metadata.md",
     "git/publish/attachments",
     "git/publish",
     "git",
-    "my note.md",
     "git push.md",
-    "remote-blog/README.md",
     "remote-blog",
-    "aalto/Физика.md",
-    "SageMath.md",
-    "phy.md",
-    "programming.md",
-    "Python.md",
-    "GNU Octave.md",
     "files/photo.canvas",
-    "canvas.canvas",
-    "aalto/diff2.md",
     "aalto",
     "desktop.ini",
     "files/normaalijakauma.pdf",
