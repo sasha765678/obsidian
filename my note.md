@@ -1,0 +1,8 @@
+- [**Teknillinen fysiikka ja matematiikka, tekniikan kandidaatti ja diplomi-insinööri**](https://www.aalto.fi/fi/koulutustarjonta/teknillinen-fysiikka-ja-matematiikka-tekniikan-kandidaatti-ja-diplomi-insinoori)
+- [**Sähköenergiatekniikka, tekniikan kandidaatti ja diplomi-insinööri**](https://www.aalto.fi/fi/koulutustarjonta/sahkoenergiatekniikka-tekniikan-kandidaatti-ja-diplomi-insinoori)
+- [**Informaatioverkostot, tekniikan kandidaatti ja diplomi-insinööri**](https://www.aalto.fi/fi/koulutustarjonta/informaatioverkostot-tekniikan-kandidaatti-ja-diplomi-insinoori)
+- [**Automaatio ja robotiikka, tekniikan kandidaatti ja diplomi-insinööri**](https://www.aalto.fi/fi/koulutustarjonta/automaatio-ja-robotiikka-tekniikan-kandidaatti-ja-diplomi-insinoori)
+- [**Elektroniikka ja sähköfysiikka, tekniikan kandidaatti ja diplomi-insinööri**](https://www.notion.so/Yliopisto-1b963901910180d98184d8b6f4deaac6?pvs=21)
+- [**Tietotekniikka, tekniikan kandidaatti ja diplomi-insinööri**](https://www.aalto.fi/fi/koulutustarjonta/tietotekniikka-tekniikan-kandidaatti-ja-diplomi-insinoori)
+- [**Energia- ja konetekniikka, tekniikan kandidaatti ja diplomi-insinööri**](https://www.aalto.fi/fi/koulutustarjonta/energia-ja-konetekniikka-tekniikan-kandidaatti-ja-diplomi-insinoori)
+- [**Informaatioteknologia, tekniikan kandidaatti ja diplomi-insinööri**](https://www.aalto.fi/fi/koulutustarjonta/informaatioteknologia-tekniikan-kandidaatti-ja-diplomi-insinoori)

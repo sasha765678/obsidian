@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f881dd5392fd8abf",
+            "id": "526610ea0d7faa4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "my note.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-03-18 23.06.57.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "my note"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-18 23.06.57.excalidraw"
             }
           }
         ]
@@ -183,9 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f881dd5392fd8abf",
+  "active": "526610ea0d7faa4e",
   "lastOpenFiles": [
+    "GNU Octave.md",
+    "Excalidraw/Drawing 2025-03-18 23.06.57.excalidraw.md",
     "Excalidraw/Drawing 2025-03-17 12.21.19.excalidraw.md",
+    "programming.md",
     "my note.md",
     "Excalidraw/Drawing 2025-03-17 11.57.33.excalidraw.md",
     "aalto/Физика.md",
@@ -211,7 +212,6 @@
     "git/publish/how-linked-blog-starter-works.md",
     "git/publish/home.md",
     "git/publish/deploy-a-custom-linked-blog-starter.md",
-    "git/publish/connect-obsidian-vault-with-github.md",
     "git/publish/attachments/vercel-project-id.png",
     "git/publish/attachments/vercel-create-token.png",
     "git/publish/attachments/vercel-account-id.png",
@@ -221,11 +221,9 @@
     "git/publish/attachments/fork-linked-blog-starter-md.png",
     "git/publish/attachments/fn-website-demo.gif",
     "git/publish/attachments/enable-actions-github.png",
-    "git/publish/accepted-markdown-metadata.md",
     "git/publish/attachments",
     "git/publish",
     "git",
-    "git push.md",
     "remote-blog",
     "files/photo.canvas",
     "aalto",
